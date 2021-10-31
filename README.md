@@ -26,4 +26,22 @@ The implementations follow the Scikit-learn classifier style which most users ar
 See the example.py file on how to use the implementation in further detail. 
 
 ## Citation
+```{r, eval=True}
+@inproceedings{DBLP:conf/sisap/GottckeZ21,
+  author    = {Jonatan M{\o}ller Nuutinen G{\o}ttcke and
+               Arthur Zimek},
+  title     = {Handling Class Imbalance in k-Nearest Neighbor Classification by Balancing
+               Prior Probabilities},
+  booktitle = {{SISAP}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {13058},
+  pages     = {247--261},
+  publisher = {Springer},
+  year      = {2021}
+}
+``` 
 
+### DOI 
+```{r, eval=True}
+DOI: 10.1007/978-3-030-89657-7_19
+``` 
